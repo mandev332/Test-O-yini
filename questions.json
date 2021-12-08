@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Ismingizni kiriting: "
+    },
+    {
+        "id": 1,
+        "question": "Dasturlash tillari qaysi til asosiga qurilgan?\na)C tili   b)PHP   c)Paskall\n>>",
+        "answer": "a"
+    },
+    {
+        "id": 2,
+        "question": "Birinchi Dasturchi ayolning ismi nima?\na)Monica   b)Ada   c)Adeliya\n>>",
+        "answer": "b"
+    },
+    {
+        "id": 3,
+        "question": "Ozgaruvchilarni e'lon qilishning nechta qoidasi bor?\na)2 ta   b)3 ta   c)4 ta\n>>",
+        "answer": "b"
+    }
+]

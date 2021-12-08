@@ -1,0 +1,23 @@
+[
+    {
+        "ism": "Nodirbek",
+        "togri": 2,
+        "xato": 0,
+        "ball": 2,
+        "savol_soni": 3
+    },
+    {
+        "ism": "Samuel",
+        "togri": 3,
+        "xato": 0,
+        "ball": 3,
+        "savol_soni": 3
+    },
+    {
+        "ism": "Salim",
+        "togri": 2,
+        "xato": 1,
+        "ball": 2,
+        "savol_soni": 3
+    }
+]
